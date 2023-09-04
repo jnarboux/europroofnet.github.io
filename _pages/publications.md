@@ -32,6 +32,8 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 - [Translating proofs from an impredicative type system to a predicative one](https://doi.org/10.4230/LIPIcs.CSL.2023.19), T. Felicissimo, F. Blanqui and A. Kumar Barnawal, [CSL'23](https://csl2023.mimuw.edu.pl/)
 
+- Automated Completion of Statements and Proofs in Synthetic Geometry: an Approach based on Constraint Solving, Salwa Tabet Gonzalez, Predrag Janičić, and Julien Narboux, [ADG'23](https://adg2023.matf.bg.ac.rs/)
+
 **2022**
 
 - [Theorem Proving for Maude Specifications Using Lean](https://doi.org/10.1007/978-3-031-17244-1_16), Rubén Rubio and Adrián Riesco, [ICFEM'22](https://maude.ucm.es/ICFEM22)
